@@ -1,0 +1,13 @@
+ul {
+  background-color: yellow;
+  border: dotted 8px lime;
+}
+
+h1 {
+  text-align: center;
+  font-family: Tahoma, sans-serif;
+  background-color: rgb(255, 58, 58);
+  margin: 8px 200px;
+  padding: 20px;
+  border: solid 8px black;
+}
